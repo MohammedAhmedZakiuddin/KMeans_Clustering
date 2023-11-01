@@ -27,8 +27,8 @@ python KMeans.py ClusteringData.txt 3 </br>
 
 # Visualization:
 
-Image 1: Round 1 of the clustering.
-Image 2: An intermediate round during clustering.
-Image 3: Final result after clustering completion.
+Image 1: Round 1 of the clustering. </br> 
+Image 2: An intermediate round during clustering. </br>
+Image 3: Final result after clustering completion. </br>
 
    
