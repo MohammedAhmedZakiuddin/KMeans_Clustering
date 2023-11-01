@@ -24,7 +24,7 @@ Replace ClusteringData.txt with the path to your dataset file and K with the num
 2. Developed a Python executable file, KMeans.py, which takes a dataset and performs K-Means clustering with a user-defined number of clusters.
 3. Created visualizations to illustrate the clustering process, including initial clusters, intermediate states, and the final clustering result.
 4. Demonstrated strong data analysis and machine learning skills by experimenting with different values of K to observe the impact on clustering.
-5. Collaborated with team members to complete the project and met deadlines effectively.
+5. Collaborated with my professor and teaching assitant to complete the project and met deadlines effectively.
 
 # Usage:
 Example 1: Run K-means with the default value of K (2 clusters) </br>
