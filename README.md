@@ -1,15 +1,15 @@
 # K-Means Clustering Project
 
-Overview
+# Overview:
 This project is an implementation of the K-means clustering algorithm from scratch in Python. It takes a dataset as input and clusters the data points into K clusters.
 
-Prerequisites:
+# Prerequisites:
 Before running the code, make sure you have the following dependencies installed:
 
 Python (version 3.1.0)
 Any other libraries or packages required (e.g., NumPy, Matplotlib)
 
-Getting Started:
+# Getting Started:
 1. Clone this repository to your local machine.
    git clone https://github.com/yourusername/your-repo.git
 2. Install the required dependencies.
@@ -18,14 +18,14 @@ Getting Started:
    python KMeans.py ClusteringData.txt K
 Replace ClusteringData.txt with the path to your dataset file and K with the number of clusters you want to create.
 
-Usage:
-# Example 1: Run K-means with the default value of K (2 clusters)
+# Usage:
+Example 1: Run K-means with the default value of K (2 clusters)
 python KMeans.py ClusteringData.txt
 
-# Example 2: Run K-means with K=3
+Example 2: Run K-means with K=3
 python KMeans.py ClusteringData.txt 3
 
-Visualization:
+# Visualization:
 
 Image 1: Round 1 of the clustering.
 Image 2: An intermediate round during clustering.
