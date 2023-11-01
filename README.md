@@ -18,6 +18,14 @@ Any other libraries or packages required (e.g., NumPy, Matplotlib)
    python KMeans.py ClusteringData.txt K </br>
 Replace ClusteringData.txt with the path to your dataset file and K with the number of clusters you want to create.
 
+# Description:
+
+1. Implemented the K-Means clustering algorithm from scratch in Python for a machine learning project.
+2. Developed a Python executable file, KMeans.py, which takes a dataset and performs K-Means clustering with a user-defined number of clusters.
+3. Created visualizations to illustrate the clustering process, including initial clusters, intermediate states, and the final clustering result.
+4. Demonstrated strong data analysis and machine learning skills by experimenting with different values of K to observe the impact on clustering.
+5. Collaborated with team members to complete the project and met deadlines effectively.
+
 # Usage:
 Example 1: Run K-means with the default value of K (2 clusters) </br>
 python KMeans.py ClusteringData.txt </br>
